@@ -22,4 +22,5 @@ E-mail: rig4007@med.cornell.edu (RG)
 
 ¶ These authors contributed equally to this work.
  
-Dataset explanation: Data used to generate Fig 1A, 1B and 1D, Fig 2A-F; Fig 3A-D, Fig 4B-D; Fig S1, Fig S2, Table 1 and Table 2. Data to generate Fig 4A was obtained from Fig. 3B and Fig. S2.
+Dataset explanation: 
+Data used to generate Fig 1A, 1B and 1D, Fig 2A-F; Fig 3A-D, Fig 4B-D; Fig S1, Fig S2, Table 1 and Table 2 are uploaded as separate excel sheets. Data to generate Fig 4A was obtained from Fig. 3B and Fig. S2.
